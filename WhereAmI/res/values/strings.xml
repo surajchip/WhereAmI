@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Where Am I</string>
+    <string name="question_image">Image whose position needs to be searched</string>
+    <string name="action_settings">Settings</string>
+    <string name="startnewgame">Start New Level</string>
+    <string name="timer_heading">Timer</string>
+    <string name="time_left">--:--</string>
+    <string name="score_heading">Score</string>
+    <string name="score">0</string>
+    <string name="clear_data">Clear</string>
+    <string name="result_level_complete">Congratulations ! You won 10 points !</string>
+    <string name="timer_started">Are you watching closely ? You have only 15 seconds !</string>
+    <string name="result_oncreate">How good is your memory ? Press start to know !</string>
+
+</resources>
